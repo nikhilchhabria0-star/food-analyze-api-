@@ -1,0 +1,8 @@
+{
+  "name": "food-analyze-api",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "openai": "^4.58.0"
+  }
+}
